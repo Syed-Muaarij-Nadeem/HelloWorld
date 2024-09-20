@@ -1,1 +1,1 @@
-This text is ignored by Git
+This text is ignored by Git.
